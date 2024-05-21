@@ -77,6 +77,6 @@ Your program output should look like the following:
 > :bulb: Use the `strings` package and find the appropriate function that helps you split your lines into words.
 
 ## Assignment Submission
-[ ] Create a separate branch named `solution` in which to do your work.
-[ ] Create a `cmd/proverbcounter` folder with a `main.go` file containing your solution.
-[ ] A PR will automatically be opened when you push your `solution` branch to GitHub. Instructor will provide feedback in that PR.
+* [ ] Create a separate branch named `solution` in which to do your work.
+* [ ] Create a `cmd/proverbcounter` folder with a `main.go` file containing your solution.
+* [ ] A PR will automatically be opened when you push your `solution` branch to GitHub. Instructor will provide feedback in that PR.
